@@ -1,2 +1,7 @@
 # data-sync-staging-776
-Automated workflow artifacts
+
+Configuration cache for microservices architecture.
+
+## Usage
+
+Managed by the deployment automation system.
